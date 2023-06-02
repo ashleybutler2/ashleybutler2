@@ -6,7 +6,8 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   
 <h2>👨‍💻 Certifications:</h2>
-  - [Certifications](https://github.com/joshmadakor1/AD_PS)
+  
+  - [Comp Tia A+](https://github.com/joshmadakor1/AD_PS)
 
 <h2>📺 Popular YouTube Videos</h2>
 
